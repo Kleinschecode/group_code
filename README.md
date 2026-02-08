@@ -1,4 +1,4 @@
 # group_code
 Test
 TEST
-A
+T E S T
